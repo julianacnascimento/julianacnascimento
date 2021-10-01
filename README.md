@@ -1,4 +1,10 @@
-### Hi there 👋
+## Oi! Eu sou a Juliana 😁
+
+<div>
+  <a href="https://github.com/julianacnascimento" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianacnascimento&show_icons=true&include_all_commits=true&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianacnascimento&layout=compact&langs_count=16&theme=onedark" />
+</div>
 
 <!--
 **julianacnascimento/julianacnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
